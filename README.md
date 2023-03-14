@@ -8,9 +8,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **BidFinder System**
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on **Web Development projects**
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about **WEB DEVELOPMENT**
 - 📫 How to reach me: maxwelkhadambi@gmail.com
-<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Cooding
-
+<!-- - 😄 Pronouns: ... -->
+<!-- - 🤔 I’m looking for help with ... -->
