@@ -1,17 +1,16 @@
 ### Hi there 👋
 
-<!-- 
-**Epaphrus/Epaphrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Welcome to my repo, my name is **Epaphrus/Epaphrus** an experinced Web Developer <!-- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  -->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on BidFinder System
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on Web Development projects
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about **WEB DEVELOPMENT**
+- 📫 How to reach me: maxwelkhadambi@gmail.com
+<!-- - 😄 Pronouns: ... -->
+- ⚡ Fun fact: Cooding
 
--->
