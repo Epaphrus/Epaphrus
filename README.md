@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Epaphrus/langs?time_range=one_year&include_private=True&theme=bright_lights)](https://githubtrends.io)
 
 Welcome to my repo, i am  **Epaphrus/Epaphrus** an experinced Web Developer <!-- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  -->
 
@@ -15,4 +16,3 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 
-https://api.githubtrends.io/user/svg/Epaphrus/langs?time_range=one_year&include_private=True&theme=bright_lights
