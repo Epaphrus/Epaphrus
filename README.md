@@ -4,6 +4,8 @@
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+<p align="center"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white" /> <img src="https://img.shields.io/badge/Tmux-1BB91F?style=flat&logo=tmux&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" /> </p>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Epaphrus&show_icons=true&theme=tokyonight)
 
 > whoami
