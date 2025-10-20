@@ -6,9 +6,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
-Welcome to my repo, i am  **Epaphrus/Epaphrus** an experinced Web Developer <!-- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  -->
-
-Here are some ideas to get you started:
+> whoami
+I'm YourName, a software developer who treats his keyboard like a lightsaber.
+Specialized in systems programming, command-line wizardry, and writing code that
+compiles on the first try (sometimes).
 
 - 🔭 I’m currently working on **BidFinder System**
 - 🌱 I’m currently learning React
