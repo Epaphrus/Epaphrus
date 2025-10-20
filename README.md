@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
 Welcome to my repo, i am  **Epaphrus/Epaphrus** an experinced Web Developer <!-- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  -->
 
 Here are some ideas to get you started:
