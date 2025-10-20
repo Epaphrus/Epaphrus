@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B+I'mMaxwel;I+write+code+like+it's+cyberpunk+2077;Terminal+is+my+natural+habitat;Linux+%7C+C+%7C+Vim+%7C+Open+Source+Addict" alt="Typing SVG" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B+Maxwel_here;I+write+code+like+it's+cyberpunk+2077;Terminal+is+my+natural+habitat;Linux+%7C+C+%7C+Vim+%7C+Open+Source+Addict" alt="Typing SVG" /> </p>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white)
