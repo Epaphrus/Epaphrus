@@ -28,11 +28,3 @@ they're not fond of rules… You can quote them, disagree with them,
 glorify or vilify them. But the only thing you can't do is ignore them 
 because they change things. They push the human race forward."
 ― Steve Jobs
-
-
-### 🛰️ Connect
-
-```txt
-📧 Email:     maxwelkhadambi@gmail.com  
-🔗 LinkedIn:  linkedin.com/in/maxwel-khadambi-2192b7197/
-💻 GitHub:    github.com/Epaphrus
