@@ -11,13 +11,3 @@ Specialized in systems programming, command-line wizardry, and writing code that
 compiles on the first try (sometimes).
 
 🕶️ Side quests: building CLIs, dotfiles, ricing desktops, hacking on low-level stuff  
-
-- 🔭 I’m currently working on **BidFinder System**
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on **Web Development projects**
-- 💬 Ask me about **WEB DEVELOPMENT**
-- 📫 How to reach me: maxwelkhadambi@gmail.com
-- ⚡ Fun fact: Cooding
-<!-- - 😄 Pronouns: ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-
