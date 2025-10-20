@@ -4,9 +4,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Epaphrus&show_icons=true&theme=tokyonight)
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" /> </p>
-
 > whoami
 > 
 I'm Maxwel, a software developer who treats his keyboard like a lightsaber.
