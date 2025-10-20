@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ASCII header -->
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white)
@@ -7,7 +7,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
 > whoami
-I'm YourName, a software developer who treats his keyboard like a lightsaber.
+> 
+I'm Maxwel, a software developer who treats his keyboard like a lightsaber.
 Specialized in systems programming, command-line wizardry, and writing code that
 compiles on the first try (sometimes).
 
