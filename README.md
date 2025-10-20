@@ -18,3 +18,13 @@ compiles on the first try (sometimes).
 - 🕹️ Reverse engineering classic game ROMs  
 - 🧙 Creating a CLI tool that simulates a hacker terminal (pure vibes only)
 
+
+### 📜 Random Geek Quote
+
+```txt
+"Here's to the crazy ones. The misfits. The rebels. The troublemakers. 
+The round pegs in the square holes… the ones who see things differently — 
+they're not fond of rules… You can quote them, disagree with them, 
+glorify or vilify them. But the only thing you can't do is ignore them 
+because they change things. They push the human race forward."
+― Steve Jobs
