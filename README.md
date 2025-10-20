@@ -10,8 +10,6 @@ I'm Maxwel, a software developer who treats his keyboard like a lightsaber.
 Specialized in systems programming, command-line wizardry, and writing code that
 compiles on the first try (sometimes).
 
-🕶️ Side quests: building CLIs, dotfiles, ricing desktops, hacking on low-level stuff  
-
 ### 🔬 Currently Experimenting With
 
 - 🧩 Writing a kernel module just for fun  
