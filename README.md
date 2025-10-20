@@ -11,3 +11,12 @@ Specialized in systems programming, command-line wizardry, and writing code that
 compiles on the first try (sometimes).
 
 🕶️ Side quests: building CLIs, dotfiles, ricing desktops, hacking on low-level stuff  
+
+### 🔬 Currently Experimenting With
+
+- 🧩 Writing a kernel module just for fun  
+- 🧱 Building a tiling window manager from scratch  
+- ⚙️ Optimizing dotfiles like it’s a competitive sport  
+- 🕹️ Reverse engineering classic game ROMs  
+- 🧙 Creating a CLI tool that simulates a hacker terminal (pure vibes only)
+
